@@ -1,0 +1,1 @@
+dp.register_message_handler(cmd_test2, commands="test2")
